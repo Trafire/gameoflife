@@ -1,0 +1,18 @@
+On branch master
+
+Initial commit
+
+Changes to be committed:
+  (use "git rm --cached <file>..." to unstage)
+
+	new file:   timer.py
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	game_of_life.py
+	game_of_life2.py
+	game_of_life3.py
+	gedit
+	text.txt
+
